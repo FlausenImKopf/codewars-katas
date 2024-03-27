@@ -1,4 +1,4 @@
-# Solving Katas on Codewars: Counting Sheep
+# Solving Katas on Codewars: Poker Flush
 
 We were given a list of katas to solve on codewars. This is one of them.
 
