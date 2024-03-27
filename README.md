@@ -27,3 +27,4 @@ You can solve more katas if you want.
 
 ## More Bonus Katas
 - [ ] [Poker Flush](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d)
+- [ ] [Who is the killer](https://www.codewars.com/kata/5f709c8fb0d88300292a7a9d)
