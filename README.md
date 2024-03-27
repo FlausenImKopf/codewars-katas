@@ -24,3 +24,6 @@ You can solve more katas if you want.
 - [ ] [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
 - [ ] [Remove first and last letter](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 - [ ] [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+
+## More Bonus Katas
+- [ ] [Poker Flush](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d)
