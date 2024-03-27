@@ -1,4 +1,4 @@
-# Solving Katas on Codewars: Opposite Number
+# Solving Katas on Codewars: Isograms
 
 We were given a list of katas to solve on codewars. This is one of them.
 
