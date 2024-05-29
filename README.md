@@ -1,4 +1,8 @@
 # Codewars Katas
+
+> Created during my time [@CodingBootcampsEurope](https://github.com/coding-bootcamps-eu).
+> This repo was just for learning purposes and is not cleaned up.
+
 We were given a list of Katas (see below) after our first week learning javascript at the bootcamp. This repo contains my solutions to these training katas, plus some solutions to katas we were given to solve as we were learning new concepts the week before.
 
 ## Solve these Katas:
